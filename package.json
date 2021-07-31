@@ -1,0 +1,20 @@
+{
+  "name": "no-cra-react-ts-webpack",
+  "version": "1.0.0",
+  "description": "React + Typescript + Webpack template without CRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishit-g/no-cra-react-ts-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishit-g/no-cra-react-ts-webpack/issues"
+  },
+  "homepage": "https://github.com/nishit-g/no-cra-react-ts-webpack#readme"
+}
