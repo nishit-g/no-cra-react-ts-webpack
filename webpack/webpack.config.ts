@@ -22,6 +22,7 @@ module.exports = {
           },
         ],
       },
+      // Rule for loading css files using style-loader and css-loader
       {
         test: /\.css$/,
         use: [
@@ -32,6 +33,11 @@ module.exports = {
             loader: 'css-loader',
           },
         ],
+      },
+      // Rule for files with these extensions, asset/resource module type should be used.
+      {
+        test: /\.(?:ico|gif|png|jpg|jpeg)$/i,
+        type: 'asset/resource',
       },
     ],
   },

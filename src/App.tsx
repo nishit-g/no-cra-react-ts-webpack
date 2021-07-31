@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <h1>Is it working yet ?</h1>
-      <img src={Eyes} alt='Eyes' />
+      <img src={Eyes} alt='Eyes' width={200} height={200} />
     </>
   );
 };
