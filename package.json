@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/nishit-g/no-cra-react-ts-webpack/issues"
   },
-  "homepage": "https://github.com/nishit-g/no-cra-react-ts-webpack#readme"
+  "homepage": "https://github.com/nishit-g/no-cra-react-ts-webpack#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
